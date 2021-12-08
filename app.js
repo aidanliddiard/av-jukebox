@@ -1,3 +1,9 @@
+import { sleepSounds } from './data.js';
+
+console.log(sleepSounds);
+
+
+
 const audio = document.getElementById('audio');
 
 const rainSound = document.getElementById('rain-sound');
