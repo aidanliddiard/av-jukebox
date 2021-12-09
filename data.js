@@ -29,7 +29,7 @@ export const sleepSounds = [{
 }, {
     name: 'Birds',
     image: 'photos/bird.jpg',
-    audio: 'audio/bird.wav'
+    audio: 'audio/bird.mp3'
 }, {
     name: 'Wind',
     image: 'photos/wind.jpg',
